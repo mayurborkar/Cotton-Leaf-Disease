@@ -4,7 +4,7 @@
 - Demo 
 - Overview
 - Installation
-- Deployement on Heroku
+- Deployement on AWS
 
 ## Introduction
 
